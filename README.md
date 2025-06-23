@@ -5,17 +5,6 @@ Built with **Robot Framework** + **RequestsLibrary**
 
 ---
 
-## 📦 Project Structure
-tests/
-├── users/        ← GET, POST, DELETE user
-└── auth/         ← Login positive/negative
-
-resources/
-├── keywords.robot
-└── variables.yaml
-
----
-
 ## 🧰 Tech Stack
 
 - [Robot Framework](https://robotframework.org/)
